@@ -1,3 +1,3 @@
 # best-repo-ever
 test
-this is me making changes to my project using vs code.
+this is me making changes to my project using vs code.  This is a merge change.
